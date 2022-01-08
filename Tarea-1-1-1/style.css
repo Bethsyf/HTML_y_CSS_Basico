@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+body {
+  background-color:red;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 24px;
+  background: red;
+}
+
+p {
+  font-family: Georgia;
+  font-size: 18px;
+  background: #757575;
+}
